@@ -1,0 +1,40 @@
+#titulo{
+  text-align: center;
+}
+#carta{
+  background: #cccccc7a;
+  padding: 10px;
+  border-radius: 20px;
+}
+#mision{width: 35em;}
+p{
+  text-align: justify;
+}
+textarea{
+  resize: none;
+}
+#boton{
+  background: rgba(102, 102, 245, 0.287);
+  width: 100%;
+  border-radius: 10px;
+}
+#boton:hover{
+  background: rgba(102, 245, 150, 0.287);
+  width: 100%;
+  border-radius: 10px;
+}
+body{
+  background:#a8aeff2b;
+}
+#imagenCarrucel{    
+  width: 70%;
+  margin-left: 16%
+}
+#imagenCarrucel2{    
+  width: 40%;
+  margin-left: 27%;
+}
+#menu{
+  background: #005aff;
+}
+.nav-link{color: #fff;}
